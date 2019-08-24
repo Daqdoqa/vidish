@@ -1,6 +1,9 @@
 {
   "name": "vidly",
   "version": "1.0.0",
+  "engines": {
+    "node": "8.x.x"
+  }
   "description": "Simple to do app to illustrate how node js works",
   "main": "index.js",
   "scripts": {
